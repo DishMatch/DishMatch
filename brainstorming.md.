@@ -1,0 +1,51 @@
+💡 Habit Helper+
+
+Mobile:
+This app is uniquely mobile because it uses push notifications, quick goal input, and reminder timing — experiences that only make sense on a phone. It’s not a glorified website; it’s a personal motivation assistant in your pocket, sending encouraging reminders throughout the day based on user-created goals.
+
+Story:
+The story is instantly relatable — everyone has small personal habits they want to improve but forget about. The value is clear: Habit Helper+ helps users act on their intentions through short, meaningful reminders like “Start your homework now!” or “Apply chapstick.”
+Friends and peers would likely respond positively because it feels custom, supportive, and fun instead of overwhelming like full habit trackers.
+
+Market:
+The market is broad — students, professionals, and wellness enthusiasts all struggle with daily consistency. The user base can scale easily because reminders and motivation apply universally. Even as a niche wellness tool, it offers huge personal value by blending productivity with self-care.
+
+Habit:
+The app is naturally habit-forming because it creates a loop of reminders and rewards. Users open the app daily to add, check, or update their goals and receive motivation. They’re not just consuming — they’re actively creating and customizing their personal growth plan.
+
+Scope:
+Technically achievable: a few screens (goal input, list view, and notification scheduling). Even a stripped-down version — adding and displaying personal reminders — is useful and interesting. The product vision is clear: a customizable daily motivation app with expanding features like streaks and quotes.
+
+🧠 Daily Moments
+
+Mobile:
+Highly mobile by design — this app is meant for on-the-go reflection. Quick text inputs, emoji mood tagging, and daily notifications to “jot a thought” make it a product that thrives on mobile devices. It’s more than a website — it’s a personal space to record feelings instantly wherever you are.
+
+Story:
+The story centers on mindfulness and emotional tracking. Users don’t need to write essays; just capture “moments” — good or bad — that define their day. The value is emotional clarity and self-awareness. Peers and friends would find it appealing as a simple, private outlet for journaling without judgment or effort.
+
+Market:
+Target audience includes students, young professionals, and anyone exploring self-care. Journaling and mood-tracking apps have huge markets (e.g., Daylio, Stoic), but Daily Moments stays niche — focusing on micro-reflections rather than analytics-heavy tracking.
+
+Habit:
+Extremely habit-forming — users return multiple times daily to log short thoughts and scroll past entries. The app encourages both creation and reflection, forming an emotional routine similar to social media check-ins, but personal and offline.
+
+Scope:
+Straightforward to build — input form, RecyclerView feed, and storage (Room database). A minimal version is engaging even without advanced analytics. The app’s purpose and boundaries are crystal clear: capture brief personal reflections and moods in a scrollable timeline.
+
+FINAL CHOICE: 🍴 DishMatch
+
+Mobile:
+Uniquely mobile because it helps users make real-time cooking decisions — something people do in their kitchens, not at a desk. It’s more than a recipe site; it’s a smart pairing assistant that suggests complementary dishes based on what’s on hand.
+
+Story:
+DishMatch solves a familiar problem — “What goes with this?” — whether that’s a protein or a side. It turns meal planning into a fun, interactive experience with step-by-step guidance and yield amounts. The story resonates with busy people who want quick ideas without scrolling through endless recipe blogs.
+
+Market:
+The food & recipe app market is massive, but DishMatch hits a unique niche: pairing dishes, not full meal databases. Target users are home cooks, students, and small households looking for quick inspiration. Even as a niche tool, it provides significant value and could later expand to community-shared recipes.
+
+Habit:
+Moderately habit-forming — users engage when cooking or planning meals. They actively create input (choosing a dish type) and consume suggestions (recipes). It becomes a go-to app for inspiration, not daily scrolling, but strong for repeat weekly use.
+
+Scope:
+Technically well-scoped: simple input (text or dropdown), RecyclerView recipe list, and detail view. Static JSON data is enough for a solid MVP. A stripped-down version that just matches protein or side to a few recipes is still impressive and functional. The concept is clearly defined and realistic to complete on time.
