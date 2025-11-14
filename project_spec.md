@@ -74,3 +74,9 @@ User taps ⭐ Save
 
 User navigates back
 ➜ Returns to previous list or home
+
+## Wireframes
+
+Below are the hand-drawn wireframes for the DishMatch app:
+
+<img src="YOUR_IMAGE_URL_HERE" width="600">
