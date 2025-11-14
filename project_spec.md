@@ -78,5 +78,4 @@ User navigates back
 ## Wireframes
 
 Below are the hand-drawn wireframes for the DishMatch app:
-
 <img src="(https://github.com/DishMatch/DishMatch/blob/main/IMG_26B88C9B75BA-1.jpeg)" width="600">
