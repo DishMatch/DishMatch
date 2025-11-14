@@ -8,14 +8,13 @@ Submitted by:
 - **Team Member 2 Name Here**
 - **etc**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Summary
 
 This document provides an overview, project spec, and wireframes for our team's capstone project: An app that helps users decide what to cook by matching a protein or side dish with complementary recipes. Instead of browsing massive recipe websites, users receive curated pairings, step-by-step instructions, yields, and the ability to save favorites. Designed for simplicity and speed, DishMatch makes everyday cooking easier and more fun.
 
-If we had to describe this milestone in three (3) emojis, they would be: **emojis here**
-
+If we had to describe this milestone in three (3) emojis, they would be: 👨🏾‍🍳⏲️🙃
 ## Milestone Requirements
 
 <!-- Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
