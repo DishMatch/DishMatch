@@ -12,7 +12,7 @@ Time spent: **X** hours spent in total
 
 ## Summary
 
-This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **short description of your app**
+This document provides an overview, project spec, and wireframes for our team's capstone project: An app that helps users decide what to cook by matching a protein or side dish with complementary recipes. Instead of browsing massive recipe websites, users receive curated pairings, step-by-step instructions, yields, and the ability to save favorites. Designed for simplicity and speed, DishMatch makes everyday cooking easier and more fun.
 
 If we had to describe this milestone in three (3) emojis, they would be: **emojis here**
 
